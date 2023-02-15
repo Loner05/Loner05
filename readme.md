@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Soy alguien que siempre busca solucionar problemas y hacer la vida mas sencilla a través de la tecnología, siempre aprendiendo nuevas cosas y hacer mi mejor esfuerzo en todo lo que hago.<br><br>Comparto en GitHub parte de mi trabajo , actualmente me encuentro realizando proyectos que permitan mejorar y mostrar mis habilidades.</p>
+<p align="center">Soy alguien que siempre busca solucionar problemas y hacer la vida mas sencilla a través de la tecnología, siempre aprendiendo nuevas cosas y hacer mi mejor esfuerzo en todo lo que hago.<br><br>Comparto en GitHub parte de mi trabajo , actualmente me encuentro realizando proyectos que permitan mejorar y mostrar mis habilidades.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Pueden contactarme a traves de LinkedIn o al correo electronico jvelasquezmuoz@yahoo.com</p>
+<p align="center">Pueden contactarme a traves de LinkedIn o al correo electronico jvelasquezmuoz@yahoo.com</p>
 
 ###
 

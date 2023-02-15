@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/juanfelipevel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="Pueden contactarme a traves de LinkedIn o al correo electronico jvelasquezmuoz@yahoo.com" target="_blank">
+  <a href="mailto:jvelasquezmuoz@yahoo.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>

@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Soy alguien que siempre busca solucionar problemas y hacer la vida mas sencilla a través de la tecnología, siempre aprendiendo nuevas cosas y hacer mi mejor esfuerzo en todo lo que hago.<br><br>Comparto en GitHub parte de mi trabajo , actualmente me encuentro realizando proyectos que permitan mejorar y mostrar mis habilidades en el stack PERN.</p>
+<p align="center">Soy alguien que siempre busca solucionar problemas y hacer la vida mas sencilla a través de la tecnología, siempre aprendiendo nuevas cosas y hacer mi mejor esfuerzo en todo lo que hago.<br><br>Comparto en GitHub parte de mi trabajo , actualmente me encuentro realizando proyectos que permitan mejorar y mostrar mis habilidades.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">Pueden contactarme a traves de LinkedIn o al correo electronico jvelasquezmuoz@yahoo.com</p>
+<p align="center">tengo conocimientos en las tecnologias de Javascript, React, Boostrap, Tailwind, PostgresSQL, Sequelize.<br><br>Me encanta trabajar como Front con especial habilidad para el diseño de interfaces atractivas.<br><br>Pueden contactarme a traves de LinkedIn o al correo electronico jvelasquezmuoz@yahoo.com</p>
 
 ###
 
@@ -31,6 +31,19 @@
   <a href="Pueden contactarme a traves de LinkedIn o al correo electronico jvelasquezmuoz@yahoo.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&username=loner" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=loner" height="150" alt="languages graph"  />
 </div>
 
 ###
